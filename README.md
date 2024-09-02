@@ -1,4 +1,4 @@
-<h1 align="center" id="title"># &lt;My projects;</h1>
+<h1 align="center" id="title">My projects</h1>
 
 <p id="description">Aqui se encuentran algunos proyectos desarrollados de paginas web para algunos clientes y otros dessarrollos hechos en python como ejercicios y APIs</p>
 
