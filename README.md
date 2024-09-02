@@ -24,7 +24,7 @@ Pagina diseñada con un enfoque turistico, mostrando fotos y comentarios de clie
 
 Proyecto en el que participe durante un año y logramos realizar una pagina turistica con un toque muy profesional
 
-![DeUnaColombia](https://prueba.deunacolombia.com/)
+[DeUnaColombia](https://prueba.deunacolombia.com/)
 
 ## Python
 
